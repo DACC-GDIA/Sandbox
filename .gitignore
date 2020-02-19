@@ -1,2 +1,5 @@
 
 *.csv
+*.sqlite-journal
+*.xlsx
+*.sqlite
